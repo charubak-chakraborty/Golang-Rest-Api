@@ -1,0 +1,9 @@
+# Annoying stuffs
+**/.DS_Store
+**/__debug_bin
+
+# IDE stuff
+.vscode/*
+
+# Firebase Cred
+**/reviews-api-db-firebase-adminsdk-610bc-253e8e69f6.json
